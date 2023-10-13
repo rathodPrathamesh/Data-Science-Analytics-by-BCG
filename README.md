@@ -1,1 +1,1 @@
-# ata-Science-Analytics-by-BCG
+# Data-Science-Analytics-by-BCG
